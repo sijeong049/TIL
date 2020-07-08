@@ -27,4 +27,8 @@
 4. `$ git push == $ git push origin master로 단축 명령하기 ` `$ git push -u origin master`
    -u : upstream
 
+5. 다른 컴퓨터에서 원격 리포 받아오기 `$ git clone <URL>`
+
+6. 이후 remote repo 변경사항을 local repo에서 반영하기 `$git pull`
+
    ​
