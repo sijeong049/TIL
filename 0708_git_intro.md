@@ -9,3 +9,8 @@
       "name"
    2. `$ git config --global user.email`
       "email@mail"
+3. 리포의 상태보기 `$ git status`
+4. ???? ` $ git add `
+5. ???? `$ git commit`
+6. 로그보기 `$ git log`
+
